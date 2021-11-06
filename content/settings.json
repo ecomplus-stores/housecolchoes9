@@ -1,24 +1,24 @@
 {
-  "store_id": 15011,
-  "name": "housecolchoes9",
   "domain": "housecolchoes9.netlify.app",
-  "short_name": "housecolchoes9",
-  "description": "housecolchoes9",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/housecolchoes9",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "OUTLET CAMAS & POLTRONAS",
+  "short_name": "OUTLET CAMAS & POLTRONAS",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/housecolchoes9"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 15011,
+  "description": "OUTLET CAMAS & POLTRONAS",
+  "large_icon": "/img/large-icon.png"
 }
