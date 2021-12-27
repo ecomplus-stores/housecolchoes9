@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://housecolchoes9.netlify.app/conjunto-box</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://housecolchoes9.netlify.app/colchoes-mola-casal</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://housecolchoes9.netlify.app/colchao-espuma-casal</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://housecolchoes9.netlify.app/guarda-roupa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://housecolchoes9.netlify.app/conjunto-box-arezzo-black-casal</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -32,27 +56,15 @@
     </url>
   
     <url>
-      <loc>https://housecolchoes9.netlify.app/conjunto-box</loc>
+      <loc>https://housecolchoes9.netlify.app/sofa-retratil-e-reclinavel-salvador</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://housecolchoes9.netlify.app/colchoes-mola-casal</loc>
+      <loc>https://housecolchoes9.netlify.app/conjunto-estofado-2x3-lugares-londrina</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://housecolchoes9.netlify.app/colchao-espuma-casal</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://housecolchoes9.netlify.app/guarda-roupa</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
